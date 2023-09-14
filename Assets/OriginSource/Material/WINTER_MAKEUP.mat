@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WINTER_MAKEUP
+  m_Shader: {fileID: 4800000, guid: eaed48a74ec11164ab31cdb2c9b3edfb, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_38c3fa1304744e8fae7be4990f737fb1:
+        m_Texture: {fileID: 2800000, guid: 59141fe9e3705d549b63fc390156ebe9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_da13b019aaf84b7b8208f9bc9d60d6dc:
+        m_Texture: {fileID: 2800000, guid: 4f008cc25420c984bb94c2f7b11c869e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EditedMask:
+        m_Texture: {fileID: 2800000, guid: c74b6d782755b6542b74eb65ab4a7d74, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexture:
+        m_Texture: {fileID: 2800000, guid: c74b6d782755b6542b74eb65ab4a7d74, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PaintableMask:
+        m_Texture: {fileID: 2800000, guid: c74b6d782755b6542b74eb65ab4a7d74, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+    - Vector1_5b4a459d58ef4a5698e0a9490925e4e7: 0.61
+    - Vector1_a857941f911e4df4bf73133e50fdc93a: 0.87
+    - Vector1_eb59404443c54e3587d042fcf49c835f: 23.96
+    - _BaseGradientPower: 4.94
+    - _GlitterStrengthMaster: 1
+    - _LerpBetweenGlitterAndNormal: 1
+    - _NoiseRotation: 1
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _UseROrAChannelForPaintableMask: 0
+    m_Colors:
+    - Color_063e21ec65944a35be55a9110e60bcfb: {r: 1, g: 0, b: 0, a: 1}
+    - Color_922ec08d649044c09a59fc2311821d5a: {r: 1, g: 1, b: 1, a: 1}
+    - Vector2_54bb8b268ef940f4acfa8cacc5cd93da: {r: 0, g: 0.87, b: 0, a: 0}
+    - Vector2_c83df04f699a40a98932cd8306029fa4: {r: 15, g: 15, b: 0, a: 0}
+    - Vector2_cec59691c03c4bab9e7ffa8808af518b: {r: 0, g: 0, b: 0, a: 0}
+    - _BaseColor1: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor2: {r: 0, g: 1, b: 0.57264996, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _OverlayColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 259b5cbb472e0c1d0d51c5623c1e735a, type: 3}
+  m_Name: Elephant_MountPartsDatabase_SO
+  m_EditorClassIdentifier:
+  mount_parts:
+  - {fileID: 114405980142422590, guid: 932c48382d8b1924e8dad3f2547a4afe, type: 2}
+  - {fileID: 114343665454185127, guid: 565a371f80947724b8f03654a5569da1, type: 2}
+  - {fileID: 114831617871278571, guid: b8697206cdb7d0846a562b862c8fd2cb, type: 2}
+  - {fileID: 114408698030404204, guid: 0b9ba97af71f6924a88987c7f6014f15, type: 2}
+  - {fileID: 114143791024026854, guid: 50f6b226b0b0f994b9a031cc6c18c542, type: 2}
+  - {fileID: 114441217874034825, guid: 1017816be812a604e92d9c1f2ae96115, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd41b2bbb8fc3db67636cde131ab8041, type: 3}
+  m_Name: Bed_Unlockable_SO
+  m_EditorClassIdentifier:
+  unlockableID: 1
+  unlockable_name: Bed
+  display_sprite: {fileID: 21300000, guid: 2c1212cdbb2724a45ae2c4b2096004b0, type: 2}
+  unlock_credits_price: 250

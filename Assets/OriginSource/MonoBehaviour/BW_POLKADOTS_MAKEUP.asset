@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eb8f46e553ad563e522f61ae930d6f9, type: 3}
+  m_Name: BW_POLKADOTS_MAKEUP
+  m_EditorClassIdentifier:
+  itemCategoryID: 4
+  itemID: 206
+  item_display_name:
+  item_sprite: {fileID: 21300000, guid: e619cf098d1c19942b694cc69de02aed, type: 2}
+  purchaseMethod: 1
+  price: 500
+  default_display_state: 0

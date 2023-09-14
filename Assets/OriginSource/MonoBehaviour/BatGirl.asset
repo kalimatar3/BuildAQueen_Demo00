@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a912d8bddef96f5c6fb33771cf963521, type: 3}
+  m_Name: BatGirl
+  m_EditorClassIdentifier:
+  hat_id: 0
+  hair_id: 115
+  head_id: 201
+  torso_id: 301
+  lowerbody_id: 401
+  wings_id: 0
+  outfit: 618
+  skirt_id: 0
+  cape_id: 1203
+  gloves_id: 0
+  shoes_id: 0
+  glasses: 0
+  helmet_id: 0
+  tail_id: 0
+  smell_id: 0
+  coverup_id: 0
+  bodyhair_id: 0
+  skin_standardColor_id: 1
+  mount: 0
+  key_item_id: 0
+  ACTIVATE_MOUNT: 1
+  ACTIVATE_KEYITEM: 0
+  bodyModificationDatas: []
+  anything_allowed_for_bodypart_type_list:

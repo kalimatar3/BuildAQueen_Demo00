@@ -1,0 +1,805 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c58b2dba95faaddbd63f0169aa06d47a, type: 3}
+  m_Name: DressUpInserts
+  m_EditorClassIdentifier:
+  data_set_name: Dress Up Inserts
+  levelIndexDataSetID: 5
+  levelIndexDatas:
+  - level_name: Bella-iOS
+    index: 0
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 1
+    comments:
+    notedWidgets:
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: AngelGirl-Devil
+    index: 1
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets:
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: BatGirl-SuperGirl--
+    index: 2
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 07000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: RoyalDressUp
+    index: 3
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 0500000004000000
+    gameMode: 0
+    dressUpMode: 1
+    dressUp_theme_name:
+  - level_name: Mermaid-Medusa
+    index: 4
+    is_bonus_level: 0
+    levelGroupID: 7
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 0300000002000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: TurtleEggs
+    index: 5
+    is_bonus_level: 0
+    levelGroupID: 7
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 0900000008000000
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: TurtleRUN
+    index: 6
+    is_bonus_level: 0
+    levelGroupID: 7
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets:
+    gameMode: 2
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: SummerDressUp
+    index: 7
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 0500000004000000
+    gameMode: 0
+    dressUpMode: 2
+    dressUp_theme_name: SUMMER
+  - level_name: Marge
+    index: 8
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 0a00000000000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Blossom-Bubbles--
+    index: 9
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 0700000002000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: WinterDressUp
+    index: 10
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 0500000004000000
+    gameMode: 0
+    dressUpMode: 2
+    dressUp_theme_name: WINTER
+  - level_name: DragonLady-Maleficent
+    index: 11
+    is_bonus_level: 0
+    levelGroupID: 0
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments: Make the granted key_item the propper color
+    notedWidgets: 080000000300000005000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: DragonLadyEggSection
+    index: 12
+    is_bonus_level: 0
+    levelGroupID: 0
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments: Make less difficult. Use more gates.
+    notedWidgets: 090000000800000004000000
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: DragonRUN
+    index: 13
+    is_bonus_level: 0
+    levelGroupID: 0
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets:
+    gameMode: 2
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: MommyLongLegs
+    index: 14
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 0600000008000000070000000100000004000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: SailorMoon-SailorMars
+    index: 15
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 06000000080000000500000004000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: MoneyRoll-1
+    index: 16
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 1
+    comments: Free entry to this one
+    notedWidgets:
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Elsa-Anna
+    index: 17
+    is_bonus_level: 0
+    levelGroupID: 5
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments: Add eyeshadow
+    notedWidgets: 09000000070000000300000005000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Elsa-Snowball
+    index: 18
+    is_bonus_level: 0
+    levelGroupID: 5
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 08000000
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: SnowmanDressUp
+    index: 19
+    is_bonus_level: 0
+    levelGroupID: 5
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets:
+    gameMode: 2
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Wednesday-HarleyMovies
+    index: 20
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 060000000700000000000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: BatGirl-SuperGirl-1--
+    index: 21
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 06000000000000000200000004000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: PinkRanger-YellowRanger
+    index: 22
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 090000000600000004000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Wilma-Tangled
+    index: 23
+    is_bonus_level: 0
+    levelGroupID: 6
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 070000000300000001000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: WilmaVel-EggSection
+    index: 24
+    is_bonus_level: 0
+    levelGroupID: 6
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 08000000
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: VelocDino-RUN
+    index: 25
+    is_bonus_level: 0
+    levelGroupID: 6
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets:
+    gameMode: 2
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: SquidGamesGoodGirl-SquidGamesBadGirl
+    index: 26
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 06000000070000000500000004000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: MinnieMouse-DaisyDuck
+    index: 27
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 0900000004000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: SailorMoon-SailorMars-1
+    index: 28
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 010000000000000004000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: MoneyRoll-2
+    index: 29
+    is_bonus_level: 1
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 1
+    comments:
+    notedWidgets:
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Elsa-Anna-1
+    index: 30
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 060000000700000004000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Santa-Elf
+    index: 31
+    is_bonus_level: 0
+    levelGroupID: 1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 03000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Gift
+    index: 32
+    is_bonus_level: 0
+    levelGroupID: 1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 0900000008000000
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Deer-RUN
+    index: 33
+    is_bonus_level: 0
+    levelGroupID: 1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets:
+    gameMode: 2
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Wednesday-HarleyMovies-1
+    index: 34
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 07000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Blossom-Bubbles-1--
+    index: 35
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 06000000000000000200000004000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Cat-Monkey
+    index: 36
+    is_bonus_level: 0
+    levelGroupID: 2
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 0600000003000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: CatGirl-GrowCatSection
+    index: 37
+    is_bonus_level: 0
+    levelGroupID: 2
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 0900000008000000
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Tiger-RUN
+    index: 38
+    is_bonus_level: 0
+    levelGroupID: 2
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets:
+    gameMode: 2
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: SquidGamesGoodGirl-SquidGamesBadGirl-1
+    index: 39
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 06000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: PinkRanger-YellowRanger-1
+    index: 40
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 0600000007000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: WingsAngel
+    index: 41
+    is_bonus_level: 0
+    levelGroupID: 3
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 0800000004000000
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: FlyingHorse-RUN
+    index: 42
+    is_bonus_level: 0
+    levelGroupID: 3
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 09000000
+    gameMode: 2
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: MinnieMouse-DaisyDuck-1
+    index: 43
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 060000000000000004000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Santa-Elf-1
+    index: 44
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 07000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: MoneyRoll-3
+    index: 45
+    is_bonus_level: 1
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 1
+    comments:
+    notedWidgets:
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Peach-Daisy
+    index: 46
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 5
+    comments: NEW
+    notedWidgets: 09000000060000000000000004000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: BoPeep-Jessie
+    index: 47
+    is_bonus_level: 0
+    levelGroupID: 8
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments: NEW
+    notedWidgets: 07000000010000000500000004000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: BoPeep-GrowAlpacaSection
+    index: 48
+    is_bonus_level: 0
+    levelGroupID: 8
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 08000000
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Alpaca-RUN
+    index: 49
+    is_bonus_level: 0
+    levelGroupID: 8
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 5
+    comments:
+    notedWidgets:
+    gameMode: 2
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: RoboSquidGirl-SquidGame
+    index: 50
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 5
+    comments:
+    notedWidgets: 07000000010000000500000004000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Giraffe
+    index: 51
+    is_bonus_level: 0
+    levelGroupID: 9
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 090000000600000004000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Giraffe-GrowGiraffeSection
+    index: 52
+    is_bonus_level: 0
+    levelGroupID: 9
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 5
+    comments:
+    notedWidgets: 08000000
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Giraffe-RUN
+    index: 53
+    is_bonus_level: 0
+    levelGroupID: 9
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 5
+    comments:
+    notedWidgets:
+    gameMode: 2
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Peach-Daisy-1--
+    index: 54
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 5
+    comments:
+    notedWidgets: 06000000070000000000000004000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: BoPeep-Jessie-1--
+    index: 55
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 5
+    comments:
+    notedWidgets: 06000000010000000000000004000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Cat-Monkey-1
+    index: 56
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 06000000
+    gameMode: 0
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: ElephantEarsGrow
+    index: 57
+    is_bonus_level: 0
+    levelGroupID: 4
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 0900000008000000
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Elephant-RUN
+    index: 58
+    is_bonus_level: 0
+    levelGroupID: 4
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets:
+    gameMode: 2
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: Giraffe-LongNeck
+    index: 59
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets:
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: LongLegs
+    index: 60
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets:
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: MrsIncredible-LargeHands
+    index: 61
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets:
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: FlowerBasedOnWings
+    index: 62
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets:
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: MrsIncredible-LongNeck
+    index: 63
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets: 09000000
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  - level_name: SheHulkStrong
+    index: 64
+    is_bonus_level: 0
+    levelGroupID: -1
+    use_default_section_space: 0
+    bug_report_list: []
+    levelIndexDataFlag: 0
+    comments:
+    notedWidgets:
+    gameMode: 1
+    dressUpMode: 0
+    dressUp_theme_name:
+  relationship_progress_allowed: 1
+  gift_conversations_allowed: 1
+  mini_games_allowed: 1
+  idle_arcade_accessible_controlled_by_save_data: 1
+  do_photo_capture_and_gifting_scenario: 1
+  use_custom_level_layout_properties: 0
+  custom_section_space: 0
+  allow_body_type_selection: 0

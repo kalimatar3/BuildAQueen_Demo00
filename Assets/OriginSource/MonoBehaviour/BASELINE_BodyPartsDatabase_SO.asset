@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f438ecbc42c8e16fa11d9c2445bcd5e, type: 3}
+  m_Name: BASELINE_BodyPartsDatabase_SO
+  m_EditorClassIdentifier:
+  blank_skin_material: {fileID: 2100000, guid: 468fa7da635d349428950351200aae80, type: 2}
+  collections:
+  - type: 10
+    parts: []
+  - type: -1
+    parts: []
+  - type: 0
+    parts:
+    - {fileID: 114140647804346690, guid: c7aab2d060bf4e64c8dbcf27633170b2, type: 2}
+  - type: 8
+    parts: []
+  - type: 14
+    parts: []
+  - type: 12
+    parts: []
+  - type: 16
+    parts: []
+  - type: 9
+    parts: []
+  - type: 13
+    parts: []
+  - type: 11
+    parts: []
+  - type: 15
+    parts: []
+  bodyPartCreationDatas:
+  - raw_text: //<HAIR_INSERT> 101
+    bodyPartType: -1
+    id_entry_insert_markup: //<HAIR_INSERT>
+    category_starting_index: 101
+  - raw_text: //<HEAD_INSERT> 201
+    bodyPartType: 0
+    id_entry_insert_markup: //<HEAD_INSERT>
+    category_starting_index: 201
+  - raw_text: //<TORSO_INSERT> 301
+    bodyPartType: 3
+    id_entry_insert_markup: //<TORSO_INSERT>
+    category_starting_index: 301
+  - raw_text: //<LEGS_INSERT> 401
+    bodyPartType: 6
+    id_entry_insert_markup: //<LEGS_INSERT>
+    category_starting_index: 401
+  - raw_text: //<WINGS_INSERT> 501
+    bodyPartType: 7
+    id_entry_insert_markup: //<WINGS_INSERT>
+    category_starting_index: 501
+  - raw_text: //<OUTFIT_INSERT> 601
+    bodyPartType: 8
+    id_entry_insert_markup: //<OUTFIT_INSERT>
+    category_starting_index: 601
+  - raw_text: //<SKIRT_INSERT> 701
+    bodyPartType: 9
+    id_entry_insert_markup: //<SKIRT_INSERT>
+    category_starting_index: 701
+  - raw_text: //<HAT_INSERT> 801
+    bodyPartType: 10
+    id_entry_insert_markup: //<HAT_INSERT>
+    category_starting_index: 801
+  - raw_text: //<GLOVES_INSERT> 901
+    bodyPartType: 15
+    id_entry_insert_markup: //<GLOVES_INSERT>
+    category_starting_index: 901
+  - raw_text: //<TAIL_INSERT> 1001
+    bodyPartType: 16
+    id_entry_insert_markup: //<TAIL_INSERT>
+    category_starting_index: 1001
+  - raw_text: //<HELMET_INSERT> 1101
+    bodyPartType: 14
+    id_entry_insert_markup: //<HELMET_INSERT>
+    category_starting_index: 1101
+  - raw_text: //<CAPE_INSERT> 1201
+    bodyPartType: 12
+    id_entry_insert_markup: //<CAPE_INSERT>
+    category_starting_index: 1201
+  - raw_text: //<SHOES_INSERT> 1301
+    bodyPartType: 13
+    id_entry_insert_markup: //<SHOES_INSERT>
+    category_starting_index: 1301
+  - raw_text: //<GLASSES_INSERT> 1401
+    bodyPartType: 11
+    id_entry_insert_markup: //<GLASSES_INSERT>
+    category_starting_index: 1401
+  - raw_text: //<SMELL_INSERT> 1501
+    bodyPartType: 17
+    id_entry_insert_markup: //<SMELL_INSERT>
+    category_starting_index: 1501
+  - raw_text: //<COVERUP_INSERT> 1601
+    bodyPartType: 18
+    id_entry_insert_markup: //<COVERUP_INSERT>
+    category_starting_index: 1601
+  - raw_text: //<BODYHAIR_INSERT> 1701
+    bodyPartType: 19
+    id_entry_insert_markup: //<BODYHAIR_INSERT>
+    category_starting_index: 1701

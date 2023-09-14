@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SeaHorse
+  m_Controller: {fileID: 9100000, guid: 00547608cfa9cc4468039785a7434756, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 18e41e77ef2f4cd4380491da739f5b8f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ec990ebca2c51ed4893488c28be21516, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 500d8d9b7cbf2194393016d9c644fc07, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 96322b5847bb0f646a556b97ea21821b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 11483812c6e05d84e9ce6e47858d9e2f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9f0c719e8349b8744b37ae0020792dd1, type: 2}
